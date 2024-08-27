@@ -11,5 +11,3 @@ services:
       SERVER_PASSWORD: "secret"
     ports:
       - "42420:42420"
-    volumes:
-      - ./data:/data/server-file
