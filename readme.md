@@ -2,7 +2,7 @@
 
 ## Host Volume
 
-- `/data` Vintage Story server file
+- `/data` Vintage Story Host Mount
 
 ### System User
 
